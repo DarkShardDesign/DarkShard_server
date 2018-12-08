@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace darksharddesign_server.Models
+namespace darkshard_server.Models
 {
   public class TodoContext : DbContext
   {

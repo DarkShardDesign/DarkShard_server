@@ -1,5 +1,5 @@
 
-namespace darksharddesign_server.Models
+namespace darkshard_server.Models
 {
   public class TodoItem
   {

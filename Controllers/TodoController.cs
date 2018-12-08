@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
-using darksharddesign_server.Models;
+using darkshard_server.Models;
 
-namespace darksharddesign_server.Controllers
+namespace darkshard_server.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
